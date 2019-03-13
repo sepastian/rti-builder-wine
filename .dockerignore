@@ -1,0 +1,3 @@
+app/data/*
+Dockerfile
+docker-compose.yml

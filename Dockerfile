@@ -1,4 +1,4 @@
 FROM tianon/wine:32
 LABEL maintainer="Sebastian Gassner <sebastian.gassner@gmail.com>"
-ADD ./vendor /vendor
-ENTRYPOINT ["/usr/bin/wine", "/vendor/HSHfitter/hshfitter.exe"]
+ADD app /app
+ENTRYPOINT ["/app/bin/run.sh"]
