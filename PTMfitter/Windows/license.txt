@@ -1,0 +1,109 @@
+Polynomial Texture Mapping (PTM) software license
+
+You must accept the terms of the following software license in order to 
+use the PTM software.
+ 
+Hewlett-Packard Company  
+Binary Code License Agreement 
+
+This binary code license ("License") contains rights and restrictions
+associated with the use of the accompanying PTM software (executables),
+PTM data sets, and PTM documentation, and any future error corrections or
+updates provided by Hewlett-Packard (collectively "Software"). Read the 
+License carefully before using the Software. By using the Software you agree
+to the terms and conditions of this License. 
+
+1. LICENSE TO USE. Hewlett-Packard grants you a non-exclusive, non-
+transferable, royalty-free and revocable license under HP's copyright to use
+the Software in binary form for the sole purpose of (i) evaluating and testing
+the Software, (ii) academic and commercial research and education, or (iii) 
+personal and lawful non-commercial end use.  No patent license is given by 
+this agreement.
+
+2. REPRODUCTION AND DISTRIBUTION. Licensee can reproduce and distribute the
+Software for the above stated purpose provided that Licensee:  
+(A) distributes the Software complete and unmodified; 
+(B) does not distribute additional software intended to replace any 
+component(s) of the Software; 
+(C) does not distribute the Software for profit and does not use the Software
+in any commercial product; 
+(D) does not remove or alter any proprietary legends or notices contained in
+the Software; 
+(E) agrees to indemnify, hold harmless, and defend Hewlett-Packard and its
+licensors from and against any claims or lawsuits, including attorneys' fees,
+that arise or result from the use or destruction of the Software. 
+
+3. RESTRICTIONS. The Software is copyrighted. Title to the Software and all
+associated intellectual property rights is retained by Hewlett-Packard and/or
+its licensors. Unless enforcement is prohibited by applicable law, you may not
+modify, decompile, disassemble or  otherwise reverse engineer the Software.
+The Software may not be leased, assigned, or sublicensed, in whole or in part.
+No right, title or interest in or to any trademark, service mark, logo or
+trade name of Hewlett-Packard or its licensors is granted under this
+Agreement. 
+
+4. DISCLAIMER OF WARRANTY. The Software is provided "AS IS," without a 
+warranty or of any kind. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS 
+AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED. In particular,
+the Software is not qualified for diagnosing or treatment in any way of humans
+or other living beings, or the testing or processing in any way of materials or
+goods of value. The PTM software is not a Hewlett-Packard Product. The Software
+has not undergone complete testing and may contain errors. It may not function
+properly and is subject to change or withdrawal at any time. The user must
+assume the entire risk of using the Software. No support or maintenance is 
+provided with the Software by Hewlett-Packard. Do not install the Software if
+you are not accustomed to using experimental software. 
+
+5. LIMITATION OF LIABILITY. TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT
+WILL HEWLETT-PACKARD OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT
+OR  DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE
+DAMAGES, HOWEVER CAUSED REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF
+OR RELATED TO THE FURNISHING, PERFORMANCE, OR USE OF THE SOFTWARE, OR THE 
+INABILITY TO USE THE SOFTWARE, EVEN IF HEWLETT-PACKARD HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES. FURTHERMORE, SINCE THE SOFTWARE IS PROVIDED 
+WITHOUT CHARGE, YOU AGREE THAT THERE HAS BEEN NO BARGAIN MADE FOR ANY 
+ASSUMPTIONS OF LIABILITY OR DAMAGES BY HEWLETT-PACKARD FOR ANY REASON 
+WHATSOEVER, RELATING TO THE SOFTWARE OR ITS MEDIA, AND YOU HEREBY WAIVE ANY 
+CLAIM IN THIS REGARD.
+
+6. Termination. This Agreement is effective until terminated. You may
+terminate this Agreement at any time by destroying all copies of Software. This
+Agreement will terminate immediately without notice from Hewlett-Packard if you
+fail to comply with any provision of this Agreement. Upon Termination, you must
+destroy all copies of the Software.
+ 
+7. Export Regulations. The Software and technical data delivered under this
+Agreement are subject to US export control laws and may be subject to export or
+import regulations in other countries. You agree to comply strictly with all
+such laws and regulations and acknowledge that you have the responsibility to
+obtain such licenses to export, re-export, or import as may be required after
+delivery to you. 
+
+8. U.S. Government Restricted Rights. Use, duplication, or disclosure by the 
+.S. Government is subject to restrictions set forth in this Agreement and as 
+rovided in DFARS 227.7202-1 (a) and 227.7202-3(a) (1995), DFARS 252.227-7013 
+(c)(1)(ii)(Oct 1988), FAR 12.212 (a) (1995), FAR 52.227-19 (June 1987), or 
+FAR 52.227-14(ALT III) (June 1987), as applicable. 
+
+9. Governing Law. Any action related to this Agreement will be governed by 
+California law and controlling U.S. federal law. No choice of law rules of any
+jurisdiction will apply. 
+
+10. Severability. If any provision of this Agreement is held to be
+unenforceable, This Agreement will remain in effect with the provision omitted,
+unless omission would frustrate the intent of the parties, in which case this
+Agreement will immediately terminate. 
+
+11. Integration. This Agreement is the entire agreement between you and Hewlett
+-Packard relating to its subject matter. It supersedes all prior or
+contemporaneous oral or written communications, proposals, representations and
+warranties and prevails over any conflicting or additional terms of any quote,
+order, acknowledgment, or other communication between the parties relating to
+its subject matter during the term of this Agreement. No modification of this
+Agreement will be binding, unless in writing and signed by an authorized 
+representative of each party. 
+
+For inquiries please contact: Hewlett-Packard Company 
+
+

@@ -1,9 +1,5 @@
 # HSHFitter Wine
 
-HSHfitter by CHI packaged into a Docker image.
-
-Contains Software downloaded from CHI's website http://culturalheritageimaging.org/What_We_Offer/Downloads/Process/, which has been released under GPL3.
-
 # Usage
 
 Once started, the Docker container will process all RTI capture sessions automatically.
@@ -65,7 +61,7 @@ Although not required, it is recommended to name the images files `NNNN.jpg`, wh
 
 ## Starting the Container
 
-Assuming that the images and light position vectors have been placed in a data folder as described above, 
+Assuming that the images and light position vectors have been placed in a data folder as described above,
 start the container mounting the data folder as a Docker volume at `/app/data` inside the container.
 
 ```shell
@@ -75,3 +71,19 @@ docker run --rm -v $(pwd)/app/data/:/app/data sepastian/hshfitter_wine
 For each `lights.lp` file found in `/app/data` inside the container, an RTI image will be processed.
 
 If an RTI file to create exists already, that file will be skipped, i.e. no existing files will be overwritten.
+
+# Software
+
+## HSH Fitter
+
+HSHfitter by CHI packaged into a Docker image.
+
+Contains Software downloaded from CHI's website http://culturalheritageimaging.org/What_We_Offer/Downloads/Process/, which has been released under GPL3.
+
+## PTM Fitter
+
+PTM Fitter is no longer available on HP Labs site: http://www.hpl.hp.com/research/ptm/downloads/download.html
+
+A cached version has been downloaded from the Internet Archive on 2019-03-15: http://web.archive.org/web/20180815062110/http://www.hpl.hp.com/research/ptm/downloads/download.html
+
+The Linux version of PT Fitter requires a 32 bit OS, which is incompatible with Docker. Thus, the Windows version has been packaged instead.
